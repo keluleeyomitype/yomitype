@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "type": "weekly_news",
+    "week": "2026-W11",
+    "published_at": "2026-03-09",
+    "expires_at": "2026-03-23",
+    "note": "每週一更新，14天後自動下架"
+  },
+  "articles": [
+    {
+      "id": "news-2026-W11-001",
+      "category": "新聞",
+      "level": "N4",
+      "expires_days": 14,
+      "title_jp": "東京で桜の開花予想が発表された",
+      "title_zh": "東京發布今年櫻花開花預測",
+      "thumbnail_emoji": "🌸",
+      "sentences": [
+        {
+          "words": [
+            { "kanji": "東京", "kana": ["とう","きょう"], "romaji": ["to","u","kyo","u"], "def": "東京", "pos": "名詞", "example": "東京は日本の首都です。", "example_zh": "東京是日本的首都。" },
+            { "kanji": "で", "kana": ["で"], "romaji": ["de"], "def": "在（地點助詞）", "pos": "助詞", "isPunct": false },
+            { "kanji": "桜", "kana": ["さく","ら"], "romaji": ["sa","ku","ra"], "def": "櫻花", "pos": "名詞", "example": "桜がきれいに咲いています。", "example_zh": "櫻花開得很漂亮。" },
+            { "kanji": "の", "kana": ["の"], "romaji": ["no"], "def": "的（所有格助詞）", "pos": "助詞", "isPunct": false },
+            { "kanji": "開花", "kana": ["かい","か"], "romaji": ["ka","i","ka"], "def": "開花", "pos": "名詞" },
+            { "kanji": "予想", "kana": ["よ","そう"], "romaji": ["yo","so","u"], "def": "預測、預報", "pos": "名詞" },
+            { "kanji": "が", "kana": ["が"], "romaji": ["ga"], "def": "主格助詞", "pos": "助詞", "isPunct": false },
+            { "kanji": "発表", "kana": ["はっ","ぴょう"], "romaji": ["ha","p","pyo","u"], "def": "發表、公布", "pos": "名詞" },
+            { "kanji": "された", "kana": ["さ","れ","た"], "romaji": ["sa","re","ta"], "def": "（被）發布（被動過去式）", "pos": "動詞" },
+            { "kanji": "。", "kana": ["。"], "romaji": ["."], "isPunct": true }
+          ],
+          "zh": "東京發布了今年的櫻花開花預測。"
+        },
+        {
+          "words": [
+            { "kanji": "今年", "kana": ["こ","と","し"], "romaji": ["ko","to","shi"], "def": "今年", "pos": "名詞" },
+            { "kanji": "は", "kana": ["は"], "romaji": ["ha"], "def": "主題助詞", "pos": "助詞", "isPunct": false },
+            { "kanji": "例年", "kana": ["れい","ねん"], "romaji": ["re","i","ne","n"], "def": "往年、歷年", "pos": "名詞" },
+            { "kanji": "より", "kana": ["より"], "romaji": ["yo","ri"], "def": "比（比較）", "pos": "助詞", "isPunct": false },
+            { "kanji": "少し", "kana": ["すこ","し"], "romaji": ["su","ko","shi"], "def": "稍微、一點", "pos": "副詞" },
+            { "kanji": "早い", "kana": ["はや","い"], "romaji": ["ha","ya","i"], "def": "早的", "pos": "形容詞" },
+            { "kanji": "開花", "kana": ["かい","か"], "romaji": ["ka","i","ka"], "def": "開花", "pos": "名詞" },
+            { "kanji": "が", "kana": ["が"], "romaji": ["ga"], "def": "主格助詞", "pos": "助詞", "isPunct": false },
+            { "kanji": "予想", "kana": ["よ","そう"], "romaji": ["yo","so","u"], "def": "預測", "pos": "名詞" },
+            { "kanji": "されている", "kana": ["さ","れ","て","い","る"], "romaji": ["sa","re","te","i","ru"], "def": "被預測（持續被動）", "pos": "動詞" },
+            { "kanji": "。", "kana": ["。"], "romaji": ["."], "isPunct": true }
+          ],
+          "zh": "今年的開花時間預計比往年稍早。"
+        }
+      ]
+    }
+  ]
+}
