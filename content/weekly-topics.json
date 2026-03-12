@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "type": "weekly_topics",
+    "week": "2026-W11",
+    "published_at": "2026-03-09",
+    "expires_at": "2026-03-16",
+    "note": "每週一更新，7天後自動下架"
+  },
+  "articles": [
+    {
+      "id": "topic-2026-W11-001",
+      "category": "話題",
+      "level": "N4",
+      "expires_days": 7,
+      "source": "X (Twitter) JP",
+      "title_jp": "最近話題の「推し活」とは何か",
+      "title_zh": "最近流行的「推活」是什麼？",
+      "thumbnail_emoji": "⭐",
+      "sentences": [
+        {
+          "words": [
+            { "kanji": "「推し活」", "kana": ["お","し","かつ"], "romaji": ["o","shi","ka","tsu"], "def": "推活（支持喜愛的偶像或角色的活動）", "pos": "名詞", "example": "推し活は今、日本で大流行しています。", "example_zh": "推活現在在日本非常流行。" },
+            { "kanji": "は", "kana": ["は"], "romaji": ["ha"], "def": "主題助詞", "pos": "助詞", "isPunct": false },
+            { "kanji": "自分", "kana": ["じ","ぶん"], "romaji": ["ji","bu","n"], "def": "自己", "pos": "代名詞" },
+            { "kanji": "の", "kana": ["の"], "romaji": ["no"], "def": "的", "pos": "助詞", "isPunct": false },
+            { "kanji": "好きな", "kana": ["す","き","な"], "romaji": ["su","ki","na"], "def": "喜歡的", "pos": "形容動詞" },
+            { "kanji": "アイドル", "kana": ["ア","イ","ド","ル"], "romaji": ["a","i","do","ru"], "def": "偶像", "pos": "名詞" },
+            { "kanji": "や", "kana": ["や"], "romaji": ["ya"], "def": "或（列舉助詞）", "pos": "助詞", "isPunct": false },
+            { "kanji": "キャラクター", "kana": ["キャ","ラ","ク","ター"], "romaji": ["kya","ra","ku","ta","a"], "def": "角色", "pos": "名詞" },
+            { "kanji": "を", "kana": ["を"], "romaji": ["wo"], "def": "受格助詞", "pos": "助詞", "isPunct": false },
+            { "kanji": "応援", "kana": ["おう","えん"], "romaji": ["o","u","e","n"], "def": "應援、支持", "pos": "名詞" },
+            { "kanji": "する", "kana": ["す","る"], "romaji": ["su","ru"], "def": "做、進行", "pos": "動詞" },
+            { "kanji": "活動", "kana": ["かつ","どう"], "romaji": ["ka","tsu","do","u"], "def": "活動", "pos": "名詞" },
+            { "kanji": "です", "kana": ["で","す"], "romaji": ["de","su"], "def": "是（禮貌體）", "pos": "助動詞" },
+            { "kanji": "。", "kana": ["。"], "romaji": ["."], "isPunct": true }
+          ],
+          "zh": "「推活」是應援、支持自己喜歡的偶像或角色的活動。"
+        }
+      ]
+    }
+  ]
+}
